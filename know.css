@@ -1,0 +1,43 @@
+.know-text {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    color: #fafafa;
+    line-height: 1.6;
+    font-weight: 400;
+    text-align: justify;
+}
+.parts{
+    margin-left: 1.5%;
+    height: 900px;
+    width:97%;
+    border: 3px solid black;
+    padding: 10px;
+}
+.parts h2{
+    margin-top: 0%;
+    text-align: center;
+
+}
+.wheel{
+        margin-left: 1.5%;
+        margin-top: 30px;
+        height: 300px;
+        width: 97%;
+        border: 3px solid black;
+        padding: 10px;
+}
+.wheel h1{
+    text-align: center;
+}
+.maintain{
+    margin-left: 1.5%;
+    margin-top: 30px;
+    height: 500px;
+    width: 97%;
+    border: 3px solid black;
+    padding: 10px;
+    
+}
+.maintain h1{
+    text-align: center;
+}
